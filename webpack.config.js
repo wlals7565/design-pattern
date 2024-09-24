@@ -16,7 +16,9 @@ module.exports = {
     //entry: "./src/mediator/index.ts",
     //entry: "./src/memento/index.ts",
     //entry: "./src/proxy/index.ts",
-    entry: "./src/chain-of-responsibility/index.ts",
+    //entry: "./src/chain-of-responsibility/index.ts",
+    //entry: "./src/prototype/index.ts",
+    entry: "./src/facade/index.ts",
     devtool: "inline-source-map",
     module: {
         rules: [
