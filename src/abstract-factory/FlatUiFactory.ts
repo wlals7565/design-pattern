@@ -1,6 +1,6 @@
 import Button from "./Button";
 import CheckBox from "./CheckBox";
-import FlatButton from "./flatButton";
+import FlatButton from "./FlatButton";
 import FlatCheckBox from "./FlatCheckBox";
 import FlatTextEdit from "./FlatTextEdit";
 import TextEdit from "./TextEdit";
